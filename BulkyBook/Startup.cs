@@ -1,4 +1,4 @@
-using BulkyBook.Data;
+using BulkyBook.DataAccess.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Identity;
